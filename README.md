@@ -1,3 +1,5 @@
+# I didn't feel like bothering to edit all of the docs! This is a theme intended for Aphelia use and not public use. A lot of the code is Aphelia-specific; the documentation may be innaccurate.
+
 # The Cayman theme
 
 [![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
